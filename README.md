@@ -1,0 +1,1 @@
+the file names uas.py and uas task final.py contains 2 final codes . both of my approach are able to produce 4 different successfull results . rest some images are not clear . i am working on the error analysis
